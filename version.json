@@ -1,6 +1,6 @@
 {
-  "fps_version": "1.1",
-  "fps_version_code": 2,
-  "fps_url": "https://github.com/pikunp909-dot/ZYRON-FPS/raw/main/libALTAB.so",
-  "changelog": "Initial FPS boost release"
+  "fps_version": "1.2",
+  "fps_version_code": 3,
+  "fps_url": "https://github.com/pikunp909-dot/ZYRON-FPS/raw/main/Loader.zip",
+  "changelog": "Updated loader with new .so"
 }
